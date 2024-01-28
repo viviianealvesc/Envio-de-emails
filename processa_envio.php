@@ -32,7 +32,6 @@ class Mensagem {
        if(empty($this->para) || empty($this->assunto) || empty($this->mensagem)) {
           return false;
        }
-
        return true;
     }
 }
