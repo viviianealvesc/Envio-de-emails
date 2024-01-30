@@ -9,8 +9,9 @@ O Sistema de Envio de E-mail é uma aplicação que permite aos usuários enviar
 ##
 
 # Tecnologias Utilizadas
-Frontend: HTML, CSS, JavaScript <br>
-Backend: PHP <br>
+Frontend: <img align="center" alt="vivi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+         <img align="center" alt="vivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <br>
+Backend:  <img align="center" alt="vivi-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <br>
 Bibliotecas: PHPMailer (para enviar e-mails), Bootstrap (para o frontend) <br>
 
 # Utilização da Biblioteca PHPMailer 
@@ -18,7 +19,7 @@ Este projeto utiliza a biblioteca PHPMailer para enviar e-mails de forma eficien
 
 # Como Usar
 🔸 Faça o download do projeto ou clone-o para o seu computador. <br>
-🔸 Configure as credenciais do servidor de e-mail no arquivo config.php. <br>
+🔸 Configure as credenciais do servidor de e-mail no arquivo processa-envio.php. <br>
 🔸 Abra o arquivo index.php em um navegador da web compatível. <br>
 🔸 Preencha os campos de destinatário, assunto e mensagem. <br>
 🔸 Clique no botão "Enviar" para enviar o e-mail. <br>
