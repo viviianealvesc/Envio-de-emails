@@ -15,7 +15,7 @@ Backend:  <img align="center" alt="vivi-php" height="40" width="50" src="https:/
 Bibliotecas: PHPMailer (para enviar e-mails), Bootstrap (para o frontend) <br>
 
 # Utilização da Biblioteca PHPMailer 
-Este projeto utiliza a biblioteca PHPMailer para enviar e-mails de forma eficiente e segura. Certifique-se de configurar corretamente as credenciais do servidor de e-mail no arquivo config.php antes de usar o sistema.
+Este projeto utiliza a biblioteca PHPMailer para enviar e-mails de forma eficiente e segura. Certifique-se de configurar corretamente as credenciais do servidor de e-mail no arquivo processa-envio.php antes de usar o sistema.
 
 # Como Usar
 🔸 Faça o download do projeto ou clone-o para o seu computador. <br>
