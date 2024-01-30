@@ -23,3 +23,5 @@ Este projeto utiliza a biblioteca PHPMailer para enviar e-mails de forma eficien
 🔸 Abra o arquivo index.php em um navegador da web compatível. <br>
 🔸 Preencha os campos de destinatário, assunto e mensagem. <br>
 🔸 Clique no botão "Enviar" para enviar o e-mail. <br>
+
+# 🌐 Link do projeto
