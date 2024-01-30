@@ -25,3 +25,4 @@ Este projeto utiliza a biblioteca PHPMailer para enviar e-mails de forma eficien
 🔸 Clique no botão "Enviar" para enviar o e-mail. <br>
 
 # 🌐 Link do projeto
+https://viviianealvesc.github.io/Envio-de-emails/
